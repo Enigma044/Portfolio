@@ -71,7 +71,7 @@ export const experience = [
   {
     date:    "2024 — Present",
     role:    "B.Tech Student · Information Technology",
-    company: "University",
+    company: "ABV-IIITM Gwalior",
     desc:    "Focused on full-stack development, data structures & algorithms, and building real-world software projects.",
   },
   {
