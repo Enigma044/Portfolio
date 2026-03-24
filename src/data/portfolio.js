@@ -1,7 +1,7 @@
 // ── All portfolio data lives here. Edit to personalise. ──
 
 export const personal = {
-  name:      "Chandra Shekhar Kumar",
+  name:      "ChandraShekhar Kumar",
   role:      "Full-Stack Developer · B.Tech IT (2nd Year)",
   tagline:   "I build scalable full-stack and decentralized applications, combining strong problem-solving skills with modern web technologies.",
   email:     "supbro0404@gmail.com",
